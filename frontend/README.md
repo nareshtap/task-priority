@@ -62,7 +62,7 @@ Make sure you have **Node.js** and **Docker** installed on your machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nareshtap/task-priority
    cd frontend
    ```
 
